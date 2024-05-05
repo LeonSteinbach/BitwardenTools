@@ -49,7 +49,7 @@ The json file format exported with Bitwarden is expected to look like this (**ne
                 "uris": [
                     {
                         "match": null,
-                        "uri": "http://zuehlke-careers.com"
+                        "uri": "<uri>"
                     }
                 ],
                 "username": "<username>",
