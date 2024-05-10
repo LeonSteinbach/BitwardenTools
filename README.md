@@ -1,4 +1,4 @@
-# BitwardenDuplicateRemover
+# Bitwarden Tools
 
 ## Description
 
@@ -109,6 +109,9 @@ The json file format exported with Bitwarden is expected to look like this (**ne
 ### Kaspersky
 
 **Tested with Kaspersky Password Manager version 24.0.0.428**
+
+Currently only the websites in the txt file are merged into the bitwarden output file.
+Applications and notes are ignored. Support for all types is a goal for future work on this project.
 
 The txt file format exported with the Kaspersky Password Manager is expected to look like this.
 
